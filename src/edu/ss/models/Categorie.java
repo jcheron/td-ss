@@ -19,9 +19,9 @@ public class Categorie {
 	}
 
 	/**
-	 * Ajoute l'assur� pass� en param�tre � la liste des assur�s de la cat�gorie
+	 * Ajoute l'assuré passé en paramètre à la liste des assurés de la catégorie
 	 * 
-	 * @param assureSoc assur� � ajouter
+	 * @param assureSoc assuré à ajouter
 	 */
 	public void addAssure(AssureSoc assureSoc) {
 		this.lesAssures.add(assureSoc);
